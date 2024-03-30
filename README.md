@@ -1,2 +1,2 @@
 # Restaurant-Menu
- A Codedex final project for CSS Course
+ A Codedex final project for HTML Course
